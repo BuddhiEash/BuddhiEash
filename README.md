@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BuddhiEash
-- 👀 I’m interested in developing web applications primarily with PHP Laravel, ReactJS and Vuejs on AWS with Docker.
-- 🌱 I’m currently experimenting programming with Mechanics in Physics.
-- 💞️ I’m contributing to my pet project Property Ninja during my spare time - https://github.com/BuddhiEash/property-ninja
+- 👀 I’m interested in developing web applications primarily with PHP/Laravel, NodeJS, ReactJS and Vuejs on AWS with Docker
+- 💞️ I’m contributing to my pet project, Property Ninja during my spare time - https://github.com/BuddhiEash/property-ninja
 - 📫 You can find my LinkedIn by visiting to https://au.linkedin.com/in/buddhi-sachitra-eashwarage
 
 <!---
