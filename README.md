@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BuddhiEash
-- 👀 I’m interested in developing web applications primarily with PHP/Laravel, NodeJS, ReactJS and Vuejs on AWS with Docker
+- 👀 I’m interested in developing web applications primarily with C#.Net/Core, PHP/Laravel, NodeJS, ReactJS and Vuejs on AWS with Docker
 - 💞️ I’m contributing to my pet project, Property Ninja during my spare time - https://github.com/BuddhiEash/property_ninja
 - 📫 You can find my LinkedIn by visiting to https://au.linkedin.com/in/buddhi-sachitra-eashwarage
 
