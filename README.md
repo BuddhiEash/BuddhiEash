@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Don Buddhi Eashwarage
 - 👀 I’m interested in developing web applications primarily with PHP(Laravel/Symfony), MERN Stack and Python on AWS/Azure with Docker
-- 😎 I’m an enthusiast of DevOps
+- 😎 I’m a DevOps enthusiast
 - 📫 You can find my LinkedIn by visiting to https://au.linkedin.com/in/buddhi-sachitra-eashwarage
 
 <!---
