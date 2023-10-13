@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Don Buddhi Eashwarage
 - 👀 I’m interested in developing web applications primarily with C#.NET, PHP(Laravel/Symfony), MERN Stack and Python on AWS/Azure with Docker
-- 😎 I’m a DevOps enthusiast
+- 😎 I’m a Cloud Technology Enthusiast
 - 🌐 I write blog articles on technology during my spare time. Please check [My blog](https://dev.to/donbuddhi)
 
 <!---
