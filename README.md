@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Buddhi Eashwarage
 - 👀 I’m interested in developing web applications primarily with C# with .NET/.NET Core/ASP.NET MVC with Razor, PHP and MVC frameworks (Laravel/Symfony/CodeIgniter), and NodeJS on AWS/Azure with Docker
-- 😎 I’m a Cloud Technology Enthusiast
+- 😎 I’m a DevOps Enthusiast
 - 🌐 I write blog articles on technology during my spare time. Please check [My blog](https://dev.to/donbuddhi)
 
 <!---
